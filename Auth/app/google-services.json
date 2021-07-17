@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722765241058",
+    "project_id": "demopro-40cad",
+    "storage_bucket": "demopro-40cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722765241058:android:f923dfbcd722442c9c5cbb",
+        "android_client_info": {
+          "package_name": "android.example.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722765241058-2uoikvl2i9q29iam3p7h578pkn117i16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.auth",
+            "certificate_hash": "523250329605869f0d43c8acc147baadcfa6e3f0"
+          }
+        },
+        {
+          "client_id": "722765241058-q4g73j1fqr0qsklrjbt2k4pl7evotq4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0io5UI2zRf0aFRnO9ouno5KB7iVXPEPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722765241058-q4g73j1fqr0qsklrjbt2k4pl7evotq4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
